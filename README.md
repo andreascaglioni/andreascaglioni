@@ -5,8 +5,7 @@
 <!-- 
 See my [blog post about sparse grid interpolation](https://andreascaglioni.net/...). -->
 <!--
-- Check out [SGMethods](https://github.com/andreascaglioni/SGMethods), my Python implementations of sparse grid interpolation. I wrote it for my research, then polished it and made it public for everyone to enjoy!
--->
+- Check out [SGMethods](https://github.com/andreascaglioni/SGMethods), my Python implementations of sparse grid interpolation. I wrote it for my research, then polished it and made it public for everyone to enjoy! -->
 - [See my CV](https://andreascaglioni.net/cv/) for more on my work and skills.
 - <Mark>**I am open to work!**</Mark> If you are looking for someone with my profile, please [get in touch with me](https://andreascaglioni.net/contacts/).
 <!--

@@ -1,7 +1,7 @@
 # Andrea Scaglioni
 - I am an **Applied Mathematician** and **Computational Scientist** focusing on the numerics of Partial Differential Equations (PDEs).
-- During my Ph.D. at TU Vienna (AT), I worked on methods for **Stochastic PDEs** and **Random Coefficient PDEs**. I am especially interested in nonlinear, time-dependent problems.
-- I focus on **sparse grid interpolation**, which can approximate high-dimensional sparse functions with possibly dimension-independent accuracy, based only on point samples.
+- During my Ph.D. at TU Vienna (Austria), I worked on methods for **Stochastic PDEs** and **Random Coefficient PDEs**. I am especially interested in nonlinear, time-dependent problems.
+- I focus on **Sparse Grid interpolation**, which can approximate high-dimensional sparse functions with possibly dimension-independent accuracy, based only on point samples.
 <!-- 
 See my [blog post about sparse grid interpolation](https://andreascaglioni.net/...). -->
 <!--

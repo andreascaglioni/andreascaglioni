@@ -1,9 +1,8 @@
 # Andrea Scaglioni
+- <Mark>**I am open to work!**</Mark> [See my CV](https://andreascaglioni.net/cv/) for more on my work and skills. If you are looking for someone with my profile, please [get in touch with me](https://andreascaglioni.net/contacts/).
 - I am an **Applied Mathematician** and **Computational Scientist** focusing on the numerics of Partial Differential Equations (PDEs).
 - During my Ph.D. at TU Vienna (Austria), I worked on methods for **Stochastic PDEs** and **Random Coefficient PDEs**. I am especially interested in nonlinear, time-dependent problems.
 - I focus on **Sparse Grid interpolation**, which can approximate high-dimensional sparse functions with possibly dimension-independent accuracy, based only on point samples.
-- [See my CV](https://andreascaglioni.net/cv/) for more on my work and skills.
-- <Mark>**I am open to work!**</Mark> If you are looking for someone with my profile, please [get in touch with me](https://andreascaglioni.net/contacts/).
 <!-- 
 - See my [blog post about sparse grid interpolation](https://andreascaglioni.net/...).
 - Check out [SGMethods](https://github.com/andreascaglioni/SGMethods), my Python implementations of sparse grid interpolation. I wrote it for my research, then polished it and made it public for everyone to enjoy! If you are interested in contributing, please [get in touch with me](https://andreascaglioni.net/contacts/).

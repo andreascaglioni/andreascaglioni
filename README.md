@@ -1,6 +1,6 @@
 # Andrea Scaglioni
-- <Mark>**I am open to work!**</Mark> [See my CV](https://andreascaglioni.net/cv/) for more on my work and skills and [get in touch](https://andreascaglioni.net/contacts/) so I can tell you more.
-- I am an **Applied Mathematician** and **Computational Scientist** focusing on the numerics of Partial Differential Equations (PDEs).
+- I currently work at [RIEGL Laser Measurement Systems](https://www.riegl.com/en-austria/) on **GNSS data processing**.
+- In my academic life, I was an **Applied Mathematician** and **Computational Scientist** focusing on the numerics of Partial Differential Equations (PDEs) and Uncertainity Quantification (UQ).
 - During my Ph.D. at TU Vienna (Austria), I worked on methods for **Stochastic PDEs** and **Random Coefficient PDEs**. I am especially interested in nonlinear, time-dependent problems.
 - I focus on **Sparse Grid interpolation**, which can approximate high-dimensional sparse functions with possibly dimension-independent accuracy, based only on point samples.
 <!-- 
